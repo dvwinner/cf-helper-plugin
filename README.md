@@ -34,3 +34,7 @@ By this command you can specify (or change already existing) path to template fi
 1) 9e76188 Plugin completed
 2) cfa22f4 Package.json updated
 3) 18fd427 Merge branch 'master' of https://github.com/dvwinner/cf-helper-plugin
+
+
+## Credentials
+Arsenii Vlasov M3101 ITMO lab.
