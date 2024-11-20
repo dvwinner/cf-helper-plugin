@@ -30,3 +30,5 @@ By this command you can specify (or change already existing) path to template fi
 
 
 ## Commit History
+
+1) 9e76188 Plugin completed
